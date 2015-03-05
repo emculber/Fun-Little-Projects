@@ -126,6 +126,7 @@ public class ResSystem
         currentCol = 1;
       }
     }
-    System.out.print("\nYour are assigned seat " + lastAssaignedSeat + " and you are in fist class\n");
+    if(lastAssaignedSeat != 0)
+      System.out.print("\nYour are assigned seat " + lastAssaignedSeat + " and you are in fist class\n");
   }
 }
