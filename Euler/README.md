@@ -1,4 +1,5 @@
 #--- Project Euler ---
 #---- Problem 505 ---
-Completed -- False
-Language -- Java
+| Problem Number  | Completed     | Language  |
+| --------------- | ------------- | --------- |
+| 505             | False         | Java      |
