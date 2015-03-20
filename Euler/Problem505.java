@@ -64,46 +64,6 @@ public class Problem505
     
     opened = closed = 0;
     startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 4));
-    System.out.println("\nA(10^4)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 5));
-    System.out.println("\nA(10^5)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 6));
-    System.out.println("\nA(10^6)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 7));
-    System.out.println("\nA(10^7)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 8));
-    System.out.println("\nA(10^8)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 9));
-    System.out.println("\nA(10^9)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 10));
-    System.out.println("\nA(10^10)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
-    test = A(Math.pow(10, 11));
-    System.out.println("\nA(10^11)   : " + test);
-    
-    opened = closed = 0;
-    startTime = System.currentTimeMillis();
     test = A(Math.pow(10, 12));
     System.out.println("\nA(10^12)   : " + test);
     
